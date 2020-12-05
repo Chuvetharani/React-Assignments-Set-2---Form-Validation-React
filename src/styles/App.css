@@ -1,8 +1,10 @@
+* {
+    box-sizing: border-box;
+}
 h1 {
     color: #27aedb;
     text-align: center;
-    }
-    
+}
 
 button{
     color: #27aedb;
